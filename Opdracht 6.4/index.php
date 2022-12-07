@@ -23,5 +23,4 @@ if(isset($_POST['omtrek'])) {
 if(isset($_POST['oppervlakte'])) {
     Oppervlakte();
 }
-
 ?>
